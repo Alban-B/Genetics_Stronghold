@@ -1,2 +1,2 @@
 # Genetics_Stronghold
-all my functions didicated to treat genetic data (R, Python and Bash)
+all my functions dedicated to treat genetic data (R, Python and Bash)
